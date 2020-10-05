@@ -43,12 +43,6 @@ user_groups:
 highlight_name: false
 email: ""
 ---
-I am currently working at the Theoretical Ecology Group at Peking University in Beijing, China. I am particularly interested in 
+I am currently working at the Theoretical Ecology Group at Peking University in Beijing, China, and am applying for Ph.D. programs. I am particularly interested in understanding models and theories related to ecology and biology. My research interests include food-webs, coexistence, and stability. I am also interested in applying mathematical modeling to questions like infectious disease transmission intervention. 
 
-
-
-
-
-
-
-y research interests include  He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks
+Prior to working at the theoretical ecology lab at Peking University, I worked as a research assistant at the Space Medicine Lab at Dartmouth College, doing data and epidemiological analyses. I studied epidmeiology at Harvard University and food science & engineering at Shanghai Jiaotong Univerisity, during which I developed good quantitative skills.
