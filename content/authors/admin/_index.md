@@ -13,6 +13,7 @@ interests:
   - Food-web
   - Coexistence
   - Stability
+  - Disease ecology
 social:
   - icon: envelope
     icon_pack: fas
