@@ -10,9 +10,9 @@ role: ""
 bio: I am into theoretical ecology and mathematical biology. My research
   interests include food-web, coexistence, and stability.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Food-web
+  - Coexistence
+  - Stability
 social:
   - icon: envelope
     icon_pack: fas
